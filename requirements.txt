@@ -1,0 +1,10 @@
+# python=3.9
+ipywidgets # conda install -c conda-forge ipywidgets
+plotly # pip install --upgrade plotly
+pandas
+numpy
+pystan # conda install pystan -c conda-forge
+prophet
+seaborn
+scikit-learn # pip install -U scikit-learn
+Flask 
